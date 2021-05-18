@@ -5,6 +5,6 @@
 - 📫 How to reach me ...
 
 <!---
-Braian-COM-D-Zacarias/Braian-COM-D-Zacarias is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Braian-COM-D-Zacarias/Braian-Zacarias is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
